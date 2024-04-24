@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil-salomao-92234b269/)
 
 ![JamilSalomao GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilsalomao&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&langs_count=8&theme=dracula)
 
 
 ### Tecnologias que eu utilizo ou estou em desenvolvimento de aprendizado
