@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=header"/>&nbsp;
 
 <p align="center">Hello, My name is Jamil Salomão Rodrigues Costa, I'm 21 years old, and I live in Juiz de Fora - MG.
  
@@ -36,12 +36,4 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 <br>
 <br>
-
-
-
-## Contacts:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamil__salomao/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil-salomao-92234b269/)
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=footer"/>
