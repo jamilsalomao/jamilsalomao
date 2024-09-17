@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=header"/>&nbsp;
 
-<p align="center">Hello, My name is Jamil Salomão Rodrigues Costa, I'm 21 years old, and I live in Juiz de Fora - MG.
+<p align="center">Hello, My name is Jamil Salomão Rodrigues Costa, I'm 21 years old, and I live in Brazil, Juiz de Fora - MG.
  
  A technology enthusiast and passionate about software development, I'm embarking on a journey to enhance my skills and knowledge in this dynamic and challenging field. As a student of Systems Analysis and Development, I am immersed in the relentless pursuit of learning and innovation. I am seeking internship opportunities where I can apply and expand the knowledge gained in college while contributing to exciting projects and developing professionally. Determined, curious, and always open to new challenges, I am eager to be part of collaborative teams and learn from experienced professionals.
 
