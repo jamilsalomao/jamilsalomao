@@ -5,8 +5,7 @@
  A technology enthusiast and passionate about software development, I'm embarking on a journey to enhance my skills and knowledge in this dynamic and challenging field. As a student of Systems Analysis and Development, I am immersed in the relentless pursuit of learning and innovation. I am seeking internship opportunities where I can apply and expand the knowledge gained in college while contributing to exciting projects and developing professionally. Determined, curious, and always open to new challenges, I am eager to be part of collaborative teams and learn from experienced professionals.
 
 <div style="margin-bottom:100 px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jamilsalomao&theme=dracula&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=jamilsalomao&show_icons=true&theme=dracula&layout=compact" />
+<img margin="0 auto" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jamilsalomao&theme=dracula&mode=weekly" />
 </div>
 
 ## My Skills
