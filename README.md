@@ -6,6 +6,7 @@
 
 <div style="margin-bottom:100 px">
 <img margin="0 auto" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jamilsalomao&theme=dracula&mode=weekly" />
+ <img margin="0 auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## My Skills
