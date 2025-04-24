@@ -9,8 +9,8 @@
  <img margin="0 auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## My Skills
-### Technologies I use:
+## Minhas Habilidades
+### Tecnologias que eu uso:
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +22,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador jamilCode">
 
-### Studying in this moment:
+### Estudando no momento:
 <div style="display: inline_block">
  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <img align= "center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
@@ -36,7 +36,7 @@
  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <img align="center" alt="CANVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
   
-### Workstation Tools:
+### Ferramentas de trabalho:
 <div style="display: inline_block">
  <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
  <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -47,13 +47,13 @@
  <img align="center" alt="Discord" height="30" width="40" src="https://icongr.am/simple/discord.svg?size=50&color=5e11bb&colored=false">
 
 
-## Contacts
+## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamil__salomao/)&nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo)](https://www.linkedin.com/in/jamil-salomao-92234b269/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamilsalomao@gmail.com)&nbsp;
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contador de Visitas do Perfil</b></h3>
 </div>
 
 <p align="center">
