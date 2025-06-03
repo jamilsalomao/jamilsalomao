@@ -51,6 +51,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamil__salomao/)&nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo)](https://www.linkedin.com/in/jamil-salomao-92234b269/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamilsalomao@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Meu-Portfólio-blue?style=for-the-badge&logo)](https://www.jamilsalomao.com.br/)
 
 <div align="center">
   <h3><b>📍 Contador de Visitas do Perfil</b></h3>
