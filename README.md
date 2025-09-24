@@ -53,14 +53,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamilsalomao@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Meu-Portfólio-blue?style=for-the-badge&logoColor=white)](https://www.jamilsalomao.com.br)&nbsp;
 
-<div align="center">
-  <h3><b>📍 Contador de Visitas do Perfil</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/jamilsalomao/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=footer"/>
