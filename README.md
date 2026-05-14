@@ -50,6 +50,6 @@ Estou sempre em busca de novos desafios, oportunidades de crescimento e conexõe
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamilsalomao_)&nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil-salomao)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamilsalomao2003@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Meu-Portfólio-blue?style=for-the-badge&logoColor=white)](https://www.jamilsalomao.com.br)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Meu-Portfólio-blue?style=for-the-badge&logoColor=white)](https://www.jamilsalomao.com)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=footer"/>
