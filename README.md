@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=header"/>&nbsp;
 
-<p align="center">Olá, meu nome é Jamil Salomão Rodrigues Costa, tenho 21 anos e moro no Brasil, em Juiz de Fora - Minas Gerais.
+<p align="center">Olá, meu nome é Jamil Salomão Rodrigues Costa, tenho 23 anos e moro no Brasil, em Juiz de Fora - Minas Gerais.
  
- Entusiasta de tecnologia e apaixonado por desenvolvimento de software, estou embarcando em uma jornada para aprimorar minhas habilidades e conhecimentos nesse campo dinâmico e desafiador. Como estudante de Análise e Desenvolvimento de Sistemas, estou imerso na busca incessante de aprendizado e inovação. Estou buscando oportunidades nas quais eu possa aplicar e expandir os conhecimentos adquiridos na faculdade e, ao mesmo tempo, contribuir para projetos interessantes e me desenvolver profissionalmente. Determinado, curioso e sempre aberto a novos desafios, estou ansioso para fazer parte de equipes colaborativas e aprender com profissionais experientes.
+ Sou desenvolvedor de software e empreendedor, apaixonado por tecnologia, inovação e criação de soluções digitais que geram impacto real para empresas e usuários. Formado em Análise e Desenvolvimento de Sistemas, atualmente curso pós-graduação em Full Stack Development na FIAP, buscando evoluir constantemente minhas habilidades técnicas e estratégicas.
 
-<div style="margin-bottom:100 px">
- <img margin="0 auto" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamilsalomao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img margin="0 auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Hoje atuo desenvolvendo e comercializando sistemas próprios, criando soluções voltadas para gestão, automação e experiência do usuário. Tenho grande interesse por desenvolvimento web e mobile, arquitetura de software, SaaS e produtos digitais escaláveis.
+
+Estou sempre em busca de novos desafios, oportunidades de crescimento e conexões com pessoas que compartilham a paixão por tecnologia, negócios e inovação.
 
 ## Minhas Habilidades
 ### Tecnologias principais:
