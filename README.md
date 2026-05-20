@@ -17,18 +17,14 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilsalomao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jamilsalomao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jamilsalomao&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&layout=compact&langs_count=6&theme=tokyonight&border_radius=15"/>
 </p>
 
 ## 🚀 Tech Stack
 
-### Front-end
+#### Front-end
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -38,24 +34,18 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
     <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
 </div>
 
----
-
-### Back-end
+#### Back-end
 <div style="display: inline_block">
     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
----
-
-### Mobile
+#### Mobile
 <div style="display: inline_block">
     <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
----
-
-### Database & Cloud
+#### Database & Cloud
 <div style="display: inline_block">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -63,18 +53,14 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
     <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
 </div>
 
----
-
-### AI & Automation
+#### AI & Automation
 <div style="display: inline_block">
     <img align="center" alt="OpenAI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/openai-2.svg">
     <img align="center" alt="Google Gemini" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg">
     <img align="center" alt="Claude" height="30" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png">
 </div>
 
----
-
-### Tools & Productivity
+#### Tools & Productivity
 <div style="display: inline_block">
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -84,27 +70,42 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
----
-
 ## 🚀 Atualmente construindo
 
 - Ezzy — Plataforma SaaS para gestão empresarial
 - EzzyFight — Sistema de gestão para academias de artes marciais
 - Aplicações web e mobile focadas em automação e experiência do usuário
 
+## 🌐 Connect with me
 
-## Contatos
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamilsalomao_)&nbsp; 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil-salomao)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamilsalomao2003@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Meu-Portfólio-blue?style=for-the-badge&logoColor=white)](https://www.jamilsalomao.com)&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamil-salomao" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+
+  <a href="mailto:jamilsalomao2003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+
+  <a href="https://www.instagram.com/jamilsalomao_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+  </a>
+
+  <a href="https://www.jamilsalomao.com" target="_blank">
+    <img src="https://www.google.com/s2/favicons?sz=64&domain=jamilsalomao.com" height="42"/>
+  </a>
+</p>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamilsalomao&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jamilsalomao&theme=tokyonight&no-frame=true&row=1&column=4"/>
 </p>
 
-![Snake animation](https://github.com/jamilsalomao/jamilsalomao/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/jamilsalomao/jamilsalomao/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=footer"/>
