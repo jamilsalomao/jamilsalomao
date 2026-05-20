@@ -17,9 +17,7 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jamilsalomao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsalomao&layout=compact&langs_count=6&theme=tokyonight&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=jamilsalomao&theme=tokyonight&border_radius=15"/>
 </p>
 
 ## 🚀 Tech Stack
