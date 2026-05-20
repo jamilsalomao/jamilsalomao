@@ -92,7 +92,7 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
   </a>
 
   <a href="https://www.jamilsalomao.com" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=jamilsalomao.com" height="42"/>
+    <img src="./assets/logo.png" height="50"/>
   </a>
 </p>
 
