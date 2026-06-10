@@ -100,10 +100,4 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
   <img src="https://github-profile-trophy.vercel.app/?username=jamilsalomao&theme=tokyonight&no-frame=true&row=1&column=4"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/jamilsalomao/jamilsalomao/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=footer"/>
