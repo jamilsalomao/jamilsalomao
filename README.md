@@ -94,10 +94,4 @@ Atualmente desenvolvo produtos próprios voltados para gestão empresarial, auto
   </a>
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamilsalomao&theme=tokyonight&no-frame=true&row=1&column=4"/>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16cc35&height=120&section=footer"/>
